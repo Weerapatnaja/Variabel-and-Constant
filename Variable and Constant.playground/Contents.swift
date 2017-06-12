@@ -13,3 +13,8 @@ intNumber = 456
 
 // Explicit นี้คือการประกาศตัวแปร แบบ กำหนดค่า Dataeype
 let myConstant1:  Int = 123
+
+// Display on Console
+print(intNumber)        // Display only Value การแสดงผลเฉพาะ ค่า
+
+print("intNumber ==> \(intNumber)")     //DIsplay String and Value
